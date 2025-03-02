@@ -1,0 +1,16 @@
+1
+2
+P003 Whiskis 19000 90
+P004 Meo 30000 101
+4
+2
+2
+A003 Mainan_Kucing 10000 180 Mainan Nilon Biru
+A004 Topi_Anjing 50000 50 Topi Wol Pink
+4
+3
+2
+B002 Baju_Monyet 70000 10 Baju Katun Putih M Chimp
+B003 Baju_Burung 60000 20 Baju Cotton Kuning S Adidas
+4
+5
